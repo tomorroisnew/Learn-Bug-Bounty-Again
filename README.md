@@ -1,1 +1,21 @@
 # Learn-Bug-Bounty-Again
+- [ ] Learn Web Hacking
+  - [ ] $100 in bounties
+  - [ ] $1000 in bounties
+  - [ ] $5000 in bounties
+  - [ ] $20000 in bounties
+- [ ] Learn Source Code Review
+  - [ ] $100 in bounties
+  - [ ] $1000 in bounties
+  - [ ] $5000 in bounties
+  - [ ] $20000 in bounties
+- [ ] Learn Game Hacking
+  - [ ] $100 in bounties
+  - [ ] $1000 in bounties
+  - [ ] $5000 in bounties
+  - [ ] $20000 in bounties
+- [ ] Learn Binary exploitation
+  - [ ] $100 in bounties
+  - [ ] $1000 in bounties
+  - [ ] $5000 in bounties
+  - [ ] $20000 in bounties
